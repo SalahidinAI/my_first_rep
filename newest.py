@@ -1,1 +1,1 @@
-print('neww')
+print('new')
